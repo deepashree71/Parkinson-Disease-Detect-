@@ -5,7 +5,8 @@ An AI-powered web application that detects early signs of Parkinson's Disease by
 
 ## 🌐 Live Demo
 
-**Try it now:** (https://parkinson-disease-detect-3hh1qll1y-deepashree.vercel.app/)
+🔗 Live Demo: [Open Parkinson's Disease Detection App](https://parkinson-disease-detect-r9cjtuabs-deepashree.vercel.app)
+
 
 Experience the application live and see the AI analysis in action!
 
